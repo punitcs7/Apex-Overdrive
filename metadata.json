@@ -1,0 +1,6 @@
+{
+  "name": "Apex Overdrive",
+  "description": "A top-down arcade circuit racing game with WASD controls, drift physics, rival racers, and a progressive Overdrive speed-scaling mechanic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
